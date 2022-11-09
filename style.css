@@ -15,7 +15,7 @@ z-index: 9999;
 position: relative;
 }
 .head{
-  width: 1920px;
+  width: 100%;
   opacity: 0.1;
 border: 1px solid #fff;
 margin-top: 1.5rem;
